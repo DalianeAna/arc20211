@@ -1,4 +1,4 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DalianeAna/arc20211)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://apricot-flamingo-b61xwzv5.ws-us16.gitpod.io/)
 
 # arc20211
 O problema escolhido para este semestre do CTI de Telecomunicações é um chatbot integrado ao Discord. 
